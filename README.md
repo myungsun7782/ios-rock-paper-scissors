@@ -49,6 +49,7 @@
 - 컴퓨터와 유저가 가위바위보 게임 진행 후 승리한 플레이어의 턴으로 시작해 묵찌빠를 진행해서 승자를 출력하고 게임이 종료 됩니다.
 
 <img src="https://user-images.githubusercontent.com/74762699/236392261-7befec45-65ce-401c-86cd-0d0445ba345c.png" width="500" height="500"/>
+![ezgif com-crop](https://user-images.githubusercontent.com/100982422/236476177-6acbc414-293b-4a0d-8ba6-42526754723c.gif)
 
 <br/>
 
